@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--use:渐变背景-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--shape是用来定义形状的，gradient定义该形状里面为渐变色填充，startColor起始颜色，endColor结束颜色，angle表示方向角度。当angle=0时，渐变色是从左向右。 然后逆时针方向转，当angle=90时为从下往上。-->
+    <gradient
+        android:startColor="#00000000"
+        android:endColor="#ff000000"
+        android:angle="45"/>
+</shape>

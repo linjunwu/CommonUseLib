@@ -1,0 +1,14 @@
+<resources>
+    <!--特殊字符-->
+    <string name="app_name">CommonUseLib</string>
+    <!--"-->
+    <string name="double_quotation_marks">&quot;&#34;</string>
+    <!--'-->
+    <!--<string name="signle_quotation_marks">&apos;&#39;</string>-->
+    <!--&-->
+    <string name="and">&amp;&#38;</string>
+    <!--<-->
+    <string name="less_than">&lt;&#60;</string>
+    <!-->-->
+    <string name="greater_than">&gt;&#62;</string>
+</resources>

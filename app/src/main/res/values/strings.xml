@@ -11,4 +11,6 @@
     <string name="less_than">&lt;&#60;</string>
     <!-->-->
     <string name="greater_than">&gt;&#62;</string>
+
+    <string name="data_loading">数据加载中...</string>
 </resources>
